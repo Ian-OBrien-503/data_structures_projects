@@ -1,0 +1,2117 @@
+p
+bulbasaur
+bulbasaur can be seen napping in bright sunlight. there is a seed on its back. by soaking up in the sun's rays, the seed grows progressively larger.
+ivysaur
+25
+1
+grass / poison
+
+p
+ivysaur
+there is a bud on this pokemon's back. to support its weight, ivysaur's legs and trunk grow thick and strong.
+venusaur
+100
+2
+grass / poison
+
+p
+venusaur
+there is a large flower on venusaur's back. the flower is said to take on vivid colors if it gets plenty of nutrition and sunlight.
+0
+0
+3
+grass / poison
+
+p
+charmander
+the flame that burns at the tip of its tail is an indication of its emotions. the flame wavers when charmander is enjoying itself.
+charmeleon
+25
+4
+fire
+
+p
+charmeleon
+charmeleon mercilessly destroys its foes using its sharp claws. if it encounters a strong foe, it turns aggressive.
+charizard
+100
+5
+fire
+
+p
+charizard
+charizard flies around the sky in search of powerful opponents. it breathes fire of such great heat that it melts anything.
+0
+0
+6
+fire / flying
+
+p
+squirtle
+squirtle's shell is not merely used for protection. the shell's rounded shape and the grooves on its surface help minimize resistance in water.
+wartortle
+25
+7
+water
+
+p
+wartortle
+its tail is large and covered with a rich, thick fur. the tail becomes increasingly deeper in color as wartortle ages.
+blastoise
+100
+8
+water
+
+p
+blastoise
+blastoise has water spouts that protrude from its shell. the water spouts are very accurate.
+0
+0
+9
+water
+
+p
+caterpie
+caterpie has a voracious appetite. it can devour leaves bigger than its body right before your eyes.
+metapod
+12
+10
+bug
+
+p
+metapod
+the shell covering this pokemon's body is as hard as an iron slab. metapod does not move very much.
+butterfree
+50
+11
+bug
+
+p
+butterfree
+butterfree has a superior ability to search for delicious honey from flowers.
+0
+0
+12
+bug / flying
+
+p
+weedle
+weedle has an extremely acute sense of smell.
+kakuna
+12
+13
+bug
+
+p
+kakuna
+kakuna remains virtually immobile as it clings to a tree. however, on the inside, it is extremely busy as it prepares for its coming evolution.
+beedrill
+50
+14
+bug / poison
+
+p
+beedrill
+beedrill is extremely territorial.
+0
+0
+15
+bug / poison
+
+p
+pidgey
+pidgey has an extremely sharp sense of direction.
+pidgeotto
+12
+16
+normal / flying
+
+p
+pidgeotto
+pidgeotto claims a large area as its own territory. this pokemon flies around, patrolling its living space.
+pidgeot
+50
+17
+normal / flying
+
+p
+pidgeot
+this pokemon has a dazzling plumage of beautifully glossy feathers.
+0
+0
+18
+normal / flying
+
+p
+rattata
+rattata is cautious in the extreme. even while it is asleep, it constantly listens by moving its ears around.
+raticate
+25
+19
+normal
+
+p
+raticate
+raticate's sturdy fangs grow steadily. to keep them ground down, it gnaws on rocks and logs.
+0
+0
+20
+normal
+
+p
+spearow
+spearow has a very loud cry that can be heard over half a mile away.
+fearow
+50
+21
+normal / flying
+
+p
+fearow
+fearow is recognized by its long neck and elongated beak. they are conveniently shaped for catching prey in soil or water.
+0
+0
+22
+normal / flying
+
+p
+ekans
+ekans curls itself up in a spiral while it rests.
+arbok
+50
+23
+poison
+
+p
+arbok
+this pokã©mon is terrifically strong in order to constrict things with its body. it can even flatten steel oil drums.
+0
+0
+24
+poison
+
+p
+pikachu
+whenever pikachu comes across something new, it blasts it with a jolt of electricity.
+raichu
+50
+25
+electric
+
+p
+raichu
+if the electrical sacs become excessively charged, raichu plants its tail in the ground and discharges. 
+0
+0
+26
+electric
+
+p
+sandshrew
+sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert.
+sandslash
+50
+27
+ground
+
+p
+sandslash
+sandslash's body is covered by tough spikes, which are hardened sections of its hide.
+0
+0
+28
+ground
+
+p
+nidoran (female)
+nidoran (female) has barbs that secrete a powerful poison. they are thought to have developed as protection for this small-bodied pokemon.
+nidorina
+25
+29
+poison
+
+p
+nidorina
+when nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other.
+nidoqueen
+100
+30
+poison
+
+p
+nidoqueen
+nidoqueen's body is encased in extremely hard scales. it is adept at sending foes flying with harsh tackles.
+0
+0
+31
+poison / ground
+
+p
+nidoran (male)
+nidoran (male) has developed muscles for moving its ears. thanks to them, the ears can be freely moved in any direction.
+nidorino
+25
+32
+poison
+
+p
+nidorino
+nidorino has a horn that is harder than a diamond. 
+nidoking
+100
+33
+poison
+
+p
+nidoking
+nidoking's thick tail packs enormously destructive power. with one swing, it can topple a metal transmission tower.
+0
+0
+34
+poison / ground
+
+p
+clefairy
+on every night of a full moon, groups of this pokã©mon come out to play.
+clefable
+50
+35
+fairy
+
+p
+clefable
+clefable moves by skipping lightly as if it were flying using its wings.
+0
+0
+36
+fairy
+
+p
+vulpix
+at the time of its birth, vulpix has one white tail. the tail separates into six if this pokã©mon receives plenty of love from its trainer.
+ninetales
+50
+37
+fire
+
+p
+ninetales
+ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. this pokã©mon is said to live for one thousand years.
+0
+0
+38
+fire
+
+p
+jigglypuff
+jigglypuff's vocal cords can freely adjust the wavelength of its voice.
+wigglytuff
+50
+39
+normal / fairy
+
+p
+wigglytuff
+wigglytuff has large, saucerlike eyes. the surfaces of its eyes are always covered with a thin layer of tears.
+0
+0
+40
+normal / fairy
+
+p
+zubat
+zubat remains quietly unmoving in a dark spot during the bright daylight hours.
+golbat
+50
+41
+poison / flying
+
+p
+golbat
+golbat loves to drink the blood of living things. it is particularly active in the pitch black of night. 
+crobat
+100
+42
+poison / flying
+
+p
+oddish
+during the daytime, oddish buries itself in soil to absorb nutrients from the ground using its entire body.
+gloom
+25
+43
+grass / poison
+
+p
+gloom
+gloom releases a foul fragrance from the pistil of its flower. when faced with danger, the stench worsens.
+vileplume or bellossom (sun stone)
+100
+44
+grass / poison
+
+p
+vileplume
+vileplume's toxic pollen triggers atrocious allergy attacks.
+0
+0
+45
+grass / poison
+
+p
+paras
+paras has parasitic mushrooms growing on its back called tochukaso.
+parasect
+50
+46
+bug / grass
+
+p
+parasect
+parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. 
+0
+0
+47
+bug / grass
+
+p
+venonat
+venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. 
+venomoth
+50
+48
+bug / poison
+
+p
+venomoth
+venomoth is nocturnal it is a pokemon that only becomes active at night.
+0
+0
+49
+bug / poison
+
+p
+diglett
+diglett are raised in most farms. the reason is simple wherever this pokemon burrows, the soil is left perfectly tilled for planting crops.
+dugtrio
+50
+50
+ground
+
+p
+dugtrio
+dugtrio are actually triplets that emerged from one body. as a result, each triplet thinks exactly like the other two triplets.
+0
+0
+51
+ground
+
+p
+meowth
+meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps.
+persian
+50
+52
+normal
+
+p
+persian
+persian has six bold whiskers that give it a look of toughness.
+0
+0
+53
+normal
+
+p
+psyduck
+psyduck uses a mysterious power. when it does so, this pokemon generates brain waves that are supposedly only seen in sleepers.
+golduck
+50
+54
+water
+
+p
+golduck
+the webbed flippers on its forelegs and hind legs and the streamlined body of golduck give it frightening speed.
+0
+0
+55
+water
+
+p
+mankey
+when mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry.
+primeape
+50
+56
+fighting
+
+p
+primeape
+when primeape becomes furious, its blood circulation is boosted. in turn, its muscles are made even stronger.
+0
+0
+57
+fighting
+
+p
+growlithe
+growlithe has a superb sense of smell. once it smells anything, this pokemon won't forget the scent, no matter what.
+arcanine
+50
+58
+fire
+
+p
+arcanine
+arcanine is known for its high speed. it is said to be capable of running over 6,200 miles in a single day and night.
+0
+0
+59
+fire
+
+p
+poliwag
+poliwag has a very thin skin. it is possible to see the pokemon's spiral innards right through the skin.
+poliwhirl
+25
+60
+water
+
+p
+poliwhirl
+the surface of poliwhirl's body is always wet and slick with an oily fluid.
+poliwrath or politoed(king's rock)
+100
+61
+water
+
+p
+poliwrath
+poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises.
+0
+0
+62
+water / fighting
+
+p
+abra
+abra sleeps for eighteen hours a day. however, it can sense the presence of foes even while it is sleeping.
+kadabra
+25
+63
+psychic
+
+p
+kadabra
+kadabra emits a peculiar alpha wave if it develops a headache.
+alakazam
+100
+64
+psychic
+
+p
+alakazam
+alakazam's brain continually grows, making its head far too heavy to support with its neck.
+0
+0
+65
+psychic
+
+p
+machop
+machop's muscles are special they never get sore no matter how much they are used in exercise.
+machoke
+25
+66
+fighting
+
+p
+machoke
+machoke's thoroughly toned muscles possess the hardness of steel.
+machamp
+100
+67
+fighting
+
+p
+machamp
+machamp has the power to hurl anything aside. 
+0
+0
+68
+fighting
+
+p
+bellsprout
+bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be.
+weepinbell
+25
+69
+grass / poison
+
+p
+weepinbell
+weepinbell has a large hook on its rear end. at night, the pokemon hooks on to a tree branch and goes to sleep.
+victreebel
+100
+70
+grass / poison
+
+p
+victreebel
+victreebel has a long vine that extends from its head.
+0
+0
+71
+grass / poison
+
+p
+tentacool
+tentacool's body is largely composed of water. if it is removed from the sea, it dries up like parchment. 
+tentacruel
+50
+72
+water / poison
+
+p
+tentacruel
+tentacruel has large red orbs on its head. the orbs glow before lashing the vicinity with a harsh ultrasonic blast.
+0
+0
+73
+water / poison
+
+p
+geodude
+the longer a geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance.
+graveler
+25
+74
+rock / ground
+
+p
+graveler
+graveler grows by feeding on rocks. apparently, it prefers to eat rocks that are covered in moss.
+golem
+100
+75
+rock / ground
+
+p
+golem
+golem live up on mountains.
+0
+0
+76
+rock / ground
+
+p
+ponyta
+ponyta is very weak at birth. it can barely stand up. 
+rapidash
+50
+77
+fire
+
+p
+rapidash
+rapidash usually can be seen casually cantering in the fields and plains.
+0
+0
+78
+fire
+
+p
+slowpoke
+slowpoke uses its tail to catch prey by dipping it in water at the side of a river.
+slowbro or slowking (king's rock)
+50
+79
+water / psychic
+
+p
+slowbro
+slowbro's tail has a shellder firmly attached with a bite. as a result, the tail can't be used for fishing anymore.
+0
+0
+80
+water / psychic
+
+p
+magnemite
+magnemite attaches itself to power lines to feed on electricity.
+magneton
+50
+81
+electric / steel
+
+p
+magneton
+magneton emits a powerful magnetic force that is fatal to mechanical devices.
+0
+0
+82
+electric / steel
+
+p
+farfetch'd
+farfetch'd is always seen with a stalk from a plant of some sort. apparently, there are good stalks and bad stalks.
+0
+0
+83
+normal / flying
+
+p
+doduo
+doduo's two heads never sleep at the same time. 
+dodrio
+50
+84
+normal / flying
+
+p
+dodrio
+watch out if dodrio's three heads are looking in three separate directions. it's a sure sign that it is on its guard.
+0
+0
+85
+normal / flying
+
+p
+seel
+seel hunts for prey in the frigid sea underneath sheets of ice.
+dewgong
+50
+86
+water
+
+p
+dewgong
+dewgong loves to snooze on bitterly cold ice.
+0
+0
+87
+water / ice
+
+p
+grimer
+grimer's sludgy and rubbery body can be forced through any opening, however small it may be. 
+muk
+50
+88
+poison
+
+p
+muk
+from muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench.
+0
+0
+89
+poison
+
+p
+shellder
+at night, this pokemon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it.
+cloyster
+50
+90
+water
+
+p
+cloyster
+cloyster is capable of swimming in the sea. it does so by swallowing water, then jetting it out toward the rear.
+0
+0
+91
+water / ice
+
+p
+gastly
+gastly is largely composed of gaseous matter. when exposed to a strong wind, the gaseous body quickly dwindles away.
+haunter
+25
+92
+ghost / poison
+
+p
+haunter
+haunter is a dangerous pokemon. if one beckons you while floating in darkness, you must never approach it.
+gengar
+100
+93
+ghost / poison
+
+p
+gengar
+sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you.
+0
+0
+94
+ghost / poison
+
+p
+onix
+onix has a magnet in its brain. it acts as a compass so that this pokemon does not lose direction while it is tunneling.
+steelix (metal coat)
+50
+95
+rock / ground
+
+p
+drowzee
+if your nose becomes itchy while you are sleeping, it's a sure sign that one of these pokemon is standing above your pillow and trying to eat you dream through your nostrils.
+hypno
+50
+96
+psychic
+
+p
+hypno
+hypno holds a pendulum in its hand. the arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis.
+0
+0
+97
+psychic
+
+p
+krabby
+krabby live on beaches, burrowed inside holes dug into the sand.
+kingler
+50
+98
+water
+
+p
+kingler
+kingler has an enormous, oversized claw. it waves this huge claw in the air to communicate with others.
+0
+0
+99
+water
+
+p
+voltorb
+voltorb was first sighted at a company that manufactures pokã© balls.
+electrode
+50
+100
+electric
+
+p
+electrode
+electrode eats electricity in the atmosphere.
+0
+0
+101
+electric
+
+p
+exeggcute
+this pokemon consists of six eggs that form a closely knit cluster. the six eggs attract each other and spin around.
+exeggutor
+50
+102
+grass / psychic
+
+p
+exeggutor
+exeggutor originally came from the tropics. its heads steadily grow larger from exposure to strong sunlight.
+0
+0
+103
+grass / psychic
+
+p
+cubone
+cubone pines for the mother it will never see again. seeing a likeness of its mother in the full moon, it cries.
+marowak
+50
+104
+ground
+
+p
+marowak
+marowak is the evolved form of a cubone that has overcome its sadness at the loss of its mother and grown tough.
+0
+0
+105
+ground
+
+p
+hitmonlee
+hitmonlee's legs freely contract and stretch. using these springlike legs, it bowls over foes with devastating kicks.
+0
+0
+106
+fighting
+
+p
+hitmonchan
+hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship.
+0
+0
+107
+fighting
+
+p
+lickitung
+whenever lickitung comes across something new, it will unfailingly give it a lick.
+0
+0
+108
+normal
+
+p
+koffing
+if koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body.
+weezing
+50
+109
+poison
+
+p
+weezing
+weezing loves the gases given off by rotted kitchen garbage.
+0
+0
+110
+poison
+
+p
+rhyhorn
+rhyhorn runs in a straight line, smashing everything in its path.
+rhydon
+50
+111
+ground / rock
+
+p
+rhydon
+rhydon's horn can crush even uncut diamonds. one sweeping blow of its tail can topple a building.
+0
+0
+112
+ground / rock
+
+p
+chansey
+chansey lays nutritionally excellent eggs on an everyday basis.
+blissey
+50
+113
+normal
+
+p
+tangela
+tangela's vines snap off easily if they are grabbed. this happens without pain, allowing it to make a quick getaway.
+0
+0
+114
+grass
+
+p
+kangaskhan
+if you come across a young kangaskhan playing by itself, you must never disturb it or attempt to catch it.
+0
+0
+115
+normal
+
+p
+horsea
+horsea eats small insects and moss off of rocks.
+seadra
+50
+116
+water
+
+p
+seadra
+seadra sleeps after wriggling itself between the branches of coral.
+kingdra (dragon scale)
+100
+117
+water
+
+p
+goldeen
+goldeen is a very beautiful pokã©mon with fins that billow elegantly in water.
+seaking
+50
+118
+water
+
+p
+seaking
+in the autumn, seaking males can be seen performing courtship dances in riverbeds to woo females.
+0
+0
+119
+water
+
+p
+staryu
+staryu's center section has an organ called the core that shines bright red.
+starmie
+50
+120
+water
+
+p
+starmie
+starmie's center section-the core-glows brightly in seven colors.
+0
+0
+121
+water / psychic
+
+p
+mr. mime
+mr. mime is a master of pantomime. its gestures and motions convince watchers that something unseeable actually exists.
+0
+0
+122
+psychic / fairy
+
+p
+scyther
+scyther is blindingly fast. its blazing speed enhances the effectiveness of the twin scythes on its forearms.
+scizor (metal coat)
+50
+123
+bug / flying
+
+p
+jynx
+jynx walks rhythmically, swaying and shaking its hips as if it were dancing.
+0
+0
+124
+ice / psychic
+
+p
+electabuzz
+when a storm arrives, gangs of this pokã©mon compete with each other to scale heights that are likely to be stricken by lightning bolts.
+0
+0
+125
+electric
+
+p
+magmar
+in battle, magmar blows out intensely hot flames from all over its body to intimidate its opponent. 
+0
+0
+126
+fire
+
+p
+pinsir
+pinsir is astoundingly strong. it can grip a foe weighing twice its weight in its horns and easily lift it.
+0
+0
+127
+bug
+
+p
+tauros
+this pokemon is not satisfied unless it is rampaging at all times.
+0
+0
+128
+normal
+
+p
+magikarp
+magikarp is a pathetic excuse for a pokemon that is only capable of flopping and splashing.
+gyarados
+400
+129
+water
+
+p
+gyarados
+when magikarp evolves into gyarados, its brain cells undergo a structural transformation.
+0
+0
+130
+water / flying
+
+p
+lapras
+people have driven lapras almost to the point of extinction.
+0
+0
+131
+water / ice
+
+p
+ditto
+ditto rearranges its cell structure to transform itself into other shapes.
+0
+0
+132
+normal
+
+p
+eevee
+eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives.
+vaporeon, jolteeon, flareon, espeon, or umbreon
+25
+133
+normal
+
+p
+vaporeon
+vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. 
+0
+0
+134
+water
+
+p
+jolteon
+jolteon's cells generate a low level of electricity. 
+0
+0
+135
+electric
+
+p
+flareon
+flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot.
+0
+0
+136
+fire
+
+p
+porygon
+porygon is capable of reverting itself entirely back to program data and entering cyberspace. 
+0
+0
+137
+normal
+
+p
+omanyte
+omanyte is one of the ancient and long-since-extinct pokã©mon that have been regenerated from fossils by people.
+omastar
+50
+138
+rock / water
+
+p
+omastar
+omastar uses its tentacles to capture its prey.
+0
+0
+139
+rock / water
+
+p
+kabuto
+kabuto is a pokemon that has been regenerated from a fossil.
+kabutops
+50
+140
+rock / water
+
+p
+kabutops
+kabutops swam underwater to hunt for its prey in ancient times.
+0
+0
+141
+rock / water
+
+p
+aerodactyl
+aerodactyl is a pokemon from the age of dinosaurs.
+0
+0
+142
+rock / flying
+
+p
+snorlax
+snorlax's typical day consists of nothing more than eating and sleeping.
+0
+0
+143
+normal
+
+p
+articuno
+articuno is a legendary bird pokemon that can control ice.
+0
+0
+144
+ice / flying
+
+p
+zapdos
+zapdos is a legendary bird pokemon that has the ability to control electricity.
+0
+0
+145
+electric / flying
+
+p
+moltres
+moltres is a legendary bird pokemon that has the ability to control fire.
+0
+0
+146
+fire / flying
+
+p
+dratini
+dratini continually molts and sloughs off its old skin.
+dragonair
+25
+147
+dragon
+
+p
+dragonair
+dragonair stores an enormous amount of energy inside its body.
+dragonite
+100
+148
+dragon
+
+p
+dragonite
+dragonite is capable of circling the globe in just 16 hours.
+0
+0
+149
+dragon / flying
+
+p
+mewtwo
+mewtwo is a pokemon that was created by genetic manipulation.
+0
+0
+150
+psychic
+
+p
+mew
+mew is said to possess the genetic composition of all pokemon.
+0
+0
+151
+psychic
+
+p
+chikorita
+in battle, chikorita waves its leaf around to keep the foe at bay.
+bayleef
+25
+152
+grass
+
+p
+bayleef
+bayleef's neck is ringed by curled-up leaves. inside each tubular leaf is a small shoot of a tree.
+meganium
+100
+153
+grass
+
+p
+meganium
+the fragrance of meganium's flower soothes and calms emotions.
+0
+0
+154
+grass
+
+p
+cyndaquil
+cyndaquil protects itself by flaring up the flames on its back. the flames are vigorous if the pokmon is angry.
+quilava
+25
+155
+fire
+
+p
+quilava
+quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air.
+typhlosion
+100
+156
+fire
+
+p
+typhlosion
+typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames.
+0
+0
+157
+fire
+
+p
+totodile
+despite the smallness of its body, totodile's jaws are very powerful.
+croconaw
+25
+158
+water
+
+p
+croconaw
+once croconaw has clamped its jaws on its foe, it will absolutely not let go.
+feraligatr
+100
+159
+water
+
+p
+feraligatr
+feraligatr intimidates its foes by opening its huge mouth.
+0
+0
+160
+water
+
+p
+sentret
+when acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.
+furret
+50
+161
+normal
+
+p
+furret
+furret has a very slim build. when under attack, it can slickly squirm through narrow spaces and get away.
+0
+0
+162
+normal
+
+p
+hoothoot
+hoothoot has an internal organ that senses and tracks the earth's rotation.
+noctowl
+50
+163
+normal / flying
+
+p
+noctowl
+noctowl never fails at catching prey in darkness. 
+0
+0
+164
+normal / flying
+
+p
+ledyba
+ledyba secretes an aromatic fluid from where its legs join its body. this fluid is used for communicating with others.
+ledian
+50
+165
+bug / flying
+
+p
+ledian
+it is said that in lands with clean air, where the stars fill the sky, there live ledian in countless numbers.
+0
+0
+166
+bug / flying
+
+p
+spinarak
+the web spun by spinarak can be considered its second nervous system.
+ariados
+50
+167
+bug / poison
+
+p
+ariados
+ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls.
+0
+0
+168
+bug / poison
+
+p
+crobat
+if this pokã©mon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that crobat has been flying a long distance. 
+0
+0
+169
+poison / flying
+
+p
+chinchou
+chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint.
+lanturn
+50
+170
+water / electric
+
+p
+lanturn
+lanturn is nicknamed "the deep-sea star" for its illuminated antenna.
+0
+0
+171
+water / electric
+
+p
+pichu
+pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry.
+pikachu
+25
+172
+electric
+
+p
+cleffa
+on nights with many shooting stars, cleffa can be seen dancing in a ring.
+clefairy
+25
+173
+fairy
+
+p
+igglybuff
+igglybuff's vocal cords are not sufficiently developed. it would hurt its throat if it were to sing too much.
+jigglypuff
+25
+174
+normal / fairy
+
+p
+togepi
+as its energy, togepi uses the positive emotions of compassion and pleasure exuded by people and pokã©mon.
+togetic
+50
+175
+fairy
+
+p
+togetic
+togetic is said to be a pokemon that brings good fortune.
+0
+0
+176
+flying / fairy
+
+p
+natu
+natu cannot fly because its wings are not yet fully grown.
+xatu
+50
+177
+psychic / flying
+
+p
+xatu
+xatu stands rooted and still in one spot all day long.
+0
+0
+178
+psychic / flying
+
+p
+mareep
+mareep's fluffy coat of wool rubs together and builds a static charge.
+flaaffy
+25
+179
+electric
+
+p
+flaaffy
+flaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool.
+ampharos
+100
+180
+electric
+
+p
+ampharos
+ampharos gives off so much light that it can be seen even from space.
+0
+0
+181
+electric
+
+p
+bellossom
+when bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around.
+0
+0
+182
+grass
+
+p
+marill
+marill's oil-filled tail acts much like a life preserver.
+azumarill
+50
+183
+water / fairy
+
+p
+azumarill
+azumarill's long ears are indispensable sensors. 
+0
+0
+184
+water / fairy
+
+p
+sudowoodo
+sudowoodo camouflages itself as a tree to avoid being attacked by enemies.
+0
+0
+185
+rock
+
+p
+politoed
+the curled hair on politoed's head is proof of its status as a king.
+0
+0
+186
+water
+
+p
+hoppip
+this pokemon drifts and floats with the wind.
+skiploom
+25
+187
+grass / flying
+
+p
+skiploom
+skiploom's flower blossoms when the temperature rises above 64 degrees fahrenheit.
+jumpluff
+100
+188
+grass / flying
+
+p
+jumpluff
+jumpluff rides warm southern winds to cross the sea and fly to foreign lands.
+0
+0
+189
+grass / flying
+
+p
+aipom
+aipom's tail ends in a hand-like appendage that can be cleverly manipulated.
+ambipom
+50
+190
+normal
+
+p
+sunkern
+sunkern tries to move as little as it possibly can. it does so because it tries to conserve all the nutrients it has stored in its body for its evolution.
+sunflora
+50
+191
+grass
+
+p
+sunflora
+sunflora converts solar energy into nutrition. it moves around actively in the daytime when it is warm.
+0
+0
+192
+grass
+
+p
+yanma
+yanma is capable of seeing 360 degrees without having to move its eyes.
+yanmega
+50
+193
+bug / flying
+
+p
+wooper
+wooper usually lives in water. however, it occasionally comes out onto land in search of food.
+quagsire
+50
+194
+water / ground
+
+p
+quagsire
+quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware.
+0
+0
+195
+water / ground
+
+p
+espeon
+espeon is extremely loyal to any trainer it considers to be worthy.
+0
+0
+196
+psychic
+
+p
+umbreon
+umbreon evolved as a result of exposure to the moon's waves.
+0
+0
+197
+dark
+
+p
+murkrow
+murkrow was feared and loathed as the alleged bearer of ill fortune.
+honchkrow
+50
+198
+dark / flying
+
+p
+slowking
+slowking undertakes research every day in an effort to solve the mysteries of the world. 
+0
+0
+199
+water / psychic
+
+p
+misdreavus
+misdreavus frightens people with a creepy, sobbing cry.
+mismagius
+50
+200
+ghost
+
+p
+unown
+this pokã©mon is shaped like ancient writing. it is a mystery as to which came first, the ancient writings or the various unown.
+0
+0
+201
+psychic
+
+p
+wobbuffet
+if two or more wobbuffet meet, they will turn competitive and try to outdo each other's endurance.
+0
+0
+202
+psychic
+
+p
+girafarig
+girafarig's rear head also has a brain, but it is small. the rear head attacks in response to smells and sounds.
+0
+0
+203
+normal / psychic
+
+p
+pineco
+pineco hangs from a tree branch and patiently waits for prey to come along.
+forretress
+50
+204
+bug
+
+p
+forretress
+forretress conceals itself inside its hardened steel shell.
+0
+0
+205
+bug / steel
+
+p
+dunsparce
+dunsparce has a drill for its tail. it uses this tail to burrow into the ground backward.
+0
+0
+206
+normal
+
+p
+gligar
+gligar glides through the air without a sound as if it were sliding.
+gliscor
+50
+207
+ground / flying
+
+p
+steelix
+steelix lives even further underground than onix. this pokemon is known to dig toward the earth's core.
+0
+0
+208
+steel / ground
+
+p
+snubbull
+by baring its fangs and making a scary face, snubbull sends smaller pokemon scurrying away in terror.
+granbull
+50
+209
+fairy
+
+p
+granbull
+granbull has a particularly well-developed lower jaw.
+0
+0
+210
+fairy
+
+p
+qwilfish
+qwilfish sucks in water, inflating itself.
+0
+0
+211
+water / poison
+
+p
+scizor
+scizor has a body with the hardness of steel. it is not easily fazed by ordinary sorts of attacks.
+0
+0
+212
+bug / steel
+
+p
+shuckle
+shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away.
+0
+0
+213
+bug / rock
+
+p
+heracross
+heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn.
+0
+0
+214
+bug / fighting
+
+p
+sneasel
+sneasel scales trees by punching its hooked claws into bark.
+weavile
+50
+215
+dark / ice
+
+p
+teddiursa
+this pokemon likes to lick its palms that are sweetened by being soaked in honey.
+ursaring
+50
+216
+normal
+
+p
+ursaring
+in the forests inhabited by ursaring, it is said that there are many streams and towering trees where they gather food.
+0
+0
+217
+normal
+
+p
+slugma
+molten magma courses throughout slugma's circulatory system. if this pokã©mon is chilled, the magma cools and hardens.
+magcargo
+50
+218
+fire
+
+p
+magcargo
+magcargo's shell is actually its skin that hardened as a result of cooling.
+0
+0
+219
+fire / rock
+
+p
+swinub
+swinub roots for food by rubbing its snout against the ground.
+piloswine
+50
+220
+ice / ground
+
+p
+piloswine
+piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold.
+0
+0
+221
+ice / ground
+
+p
+corsola
+corsola's branches glitter very beautifully in seven colors when they catch sunlight.
+0
+0
+222
+water / rock
+
+p
+remoraid
+remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey.
+octillery
+50
+223
+water
+
+p
+octillery
+octillery grabs onto its foe using its tentacles. this pokã©mon tries to immobilize it before delivering the finishing blow.
+0
+0
+224
+water
+
+p
+delibird
+delibird carries its food bundled up in its tail. 
+0
+0
+225
+ice / flying
+
+p
+mantine
+on sunny days, schools of mantine can be seen elegantly leaping over the sea's waves.
+0
+0
+226
+water / flying
+
+p
+skarmory
+skarmory is entirely encased in hard, protective armor.
+0
+0
+227
+steel / flying
+
+p
+houndour
+houndour hunt as a coordinated pack. they communicate with each other using a variety of cries to corner their prey.
+houndoom
+50
+228
+dark / fire
+
+p
+houndoom
+in a houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. 
+0
+0
+229
+dark / fire
+
+p
+kingdra
+kingdra lives at extreme ocean depths that are otherwise uninhabited.
+0
+0
+230
+water / dragon
+
+p
+phanpy
+for its nest, phanpy digs a vertical pit in the ground at the edge of a river.
+donphan
+50
+231
+ground
+
+p
+donphan
+donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed.
+0
+0
+232
+ground
+
+p
+porygon2
+porygon2 was created by humans using the power of science.
+0
+0
+233
+normal
+
+p
+stantler
+stantler's magnificent antlers were traded at high prices as works of art.
+0
+0
+234
+normal
+
+p
+smeargle
+smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail.
+0
+0
+235
+normal
+
+p
+tyrogue
+tyrogue becomes stressed out if it does not get to train every day.
+hitmontop
+25
+236
+fighting
+
+p
+hitmontop
+hitmontop spins on its head at high speed, all the while delivering kicks.
+0
+0
+237
+fighting
+
+p
+smoochum
+smoochum actively runs about, but also falls quite often.
+jynx
+25
+238
+ice / psychic
+
+p
+elekid
+elekid stores electricity in its body.
+electabuzz
+25
+239
+electric
+
+p
+magby
+magby's state of health is determined by observing the fire it breathes.
+magmar
+25
+240
+fire
+
+p
+miltank
+miltank gives over five gallons of milk on a daily basis. its sweet milk is enjoyed by children and grown-ups alike.
+0
+0
+241
+normal
+
+p
+blissey
+blissey senses sadness with its fluffy coat of fur. 
+0
+0
+242
+normal
+
+p
+raikou
+raikou embodies the speed of lightning.
+0
+0
+243
+electric
+
+p
+entei
+entei embodies the passion of magma. this pokemon is thought to have been born in the eruption of a volcano.
+0
+0
+244
+fire
+
+p
+suicune
+suicune embodies the compassion of a pure spring of water.
+0
+0
+245
+water
+
+p
+larvitar
+larvitar is born deep under the ground. to come up to the surface, this pokemon must eat its way through the soil above.
+pupitar
+25
+246
+rock / ground
+
+p
+pupitar
+pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet.
+tyranitar
+100
+247
+rock / ground
+
+p
+tyranitar
+tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. 
+0
+0
+248
+rock / dark
+
+p
+lugia
+lugia's wings pack devastating power: a light fluttering of its wings can blow apart regular houses.
+0
+0
+249
+psychic / flying
+
+p
+ho-oh
+ho-oh's feathers glow in seven colors depending on the angle at which they are struck by light. 
+0
+0
+250
+fire / flying
+
+p
+celebi
+this pokemon came from the future by crossing over time.
+0
+0
+251
+psychic / grass
+
+r
+oregon zoo 
+chikorita, bayleef, totodile, sentret, furret, hoothoot, ledyba, spinarak
+8
+
+r
+goose hollow
+chinchou, pichu, cleffa, igglybuff, togepi, togetic
+6
+
+r
+pittock mansion
+natu, mareep, flaaffy, bellossom, marill, sudowoodo, politoed, hoppip, skiploom
+9
+
+r
+montgomery park
+aipom, sunkern, yanma, wooper, espeon, murkrow, slowking, misdreavus
+8
+
+r
+moda center
+unown, wobboffet, girafarig, pineco, dunsparce, gligar, steelix, snubbull, qwilfish
+9
+
+r
+oregon convention center
+scizor, shuckle, heracross, sneasel, teddiursa
+5
+
+r
+hawthorne theatre
+slugma, swinub, corsola, remoraid, delibird, mantine, skarmory, houndour
+8
+
+r
+clackamas town center
+kingdra, phanpy, porygon2, stantler, smeargle, tyrogue, hitmontop, smoochum, elekid, magby, miltank
+11
+
+r
+lloyd center
+blissey, raikou, entei, suicune, larvitar, pupitar, lugia, ho-oh, celebi
+9
+
+t
+johto
+the johto region is a region of the pokemon world containing 100 pokemon that were not present in the previous games.
+
+t
+battle
+at rival gyms, you can battle other teams pokemon for a chance at claiming the gym.
+
+t
+cp
+a pokemons attack strength is measured in units of combat points. a pokemon's cp determines how well it will perform in battle.
+
+t
+defender bonus
+you can receive a daily reward of stardust and pokecoins for defending a gym. the defender bonus can be claimed at the shop.
+
+t
+egg
+pokemon eggs are items that can be found at pokestops. once you place an egg in an incubator and walk a specific distance, the egg will hatch into a pokemon.
+
+t
+evolution
+evolution is the process of using candy to change a pokemon into an individual of an evolved species of pokemon.
+
+t
+candy
+can be used to evolve pokemon and increase the cp (combat points) and hp (health points) of captured pokemon.
+
+t
+dodge
+swiping right or left on the screen during a battle will allow a pokemon to dodge an attack.
+
+t
+xp
+experience points are gained by trainers for performing various actions in pokemon go.
+
+t
+faint
+when a pokemon's hp reaches zero it will faint.
+
+t
+gym
+a location where pokemon can be battled and trained.
+
+t
+hp
+hit points determine the amount of damage a pokemon can take in battle before it is defeated.
+
+t
+incense
+used to attract more pokemon to your location for a certain period of time.
+
+t
+incubator
+used to hatch eggs.
+
+t
+pokestop
+a location where free items can be obtained.
+
+t
+pokemart
+location where pokecoins can be spent on special items and permanent upgrades.
+

@@ -1,0 +1,25 @@
+math,what are you approximating with a definite integral?,2,area under a curve,it is measured in units^2
+chemistry,what is the chemical symbol for table salt?,1,NaCl (sodium chloride),N--l
+geography,what is the capitol of Washinton State?,1,Olympia,Starts with letter O
+art,who painted the Mona Lisa?,2,Leonardo Divinchi,same first name as a ninja turtle
+cooking,what is butter made from?,1,milk or cream,it comes from a cow
+sports,who holds all time record for stolen bases?,3,Ricky Henderson,R---- H--------
+biology,what is the name for the cell division process?,2,mitosis,rhymes with psychosis
+biology,what is the largest organ in the human body?,3,skin,in or on the human body...
+math,what is the name for a limit that is in the form of 0/0?,2,indeterminate form,limit NOT a value
+cooking,what type of pan needs to be oiled regularly to prevent rusting?,1,cast iron,looney tunes cartoons
+space,what is the 4th planet from the sun?,0,mars,candy bar
+computer science,what agency what c++ delevelpoped at?,3,AT&T Bell Labs,phone company
+math,what do you get when you square root a negative number?,1,imaginary number,john lennon song title
+music,how many strings are on a standard guitar?,1,6,E-A-D-G-B-E
+music,who was the original guitarist for fleetwood mac?,3,Peter Green,its not stevie nicks
+music,what was keith moon's infamous nickname?,3,Moon-The-Loon,mad-man
+computer science,where is dynamic memory allocated?,2,heap,a ---- of something
+writing,what are the two main types of clauses?,3,dependent and independent,d-------- and i-----------
+math,what is the value of cos(0)?,2,cos(0)=1,not 0 or 2
+computer science,what kind of statement is used as a test before entering certain blocks of code?,1,conditonal statement,no hints
+cooking,what is the process of tying a chicken before roasting it called?,1,trussing,t----ing
+cooking,what is a common mexican taco topping that includes pork marinated w/ pinapple and red stuff?,2,Al Pastor,best food at taco trucks
+music,how many keys on a standard piano?,3,88 keys,start counting
+geography,what is the state capitol of Oregon?,0,Salem,Witch Trials
+

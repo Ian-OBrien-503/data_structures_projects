@@ -1,0 +1,30 @@
+linux:operating system we use for all CS projects
+ram:random access memory
+linear linked list:data structure with data and a next pointer to a another node
+circular linked list:a linear linked list where the tail points to the front of the list
+secondary memory:ex. hard drive, external hard drive, etc..
+gdb:debugger builtin to linux
+tarball:similar to zip file but for linux
+gunzip:command to unzip a tarball
+bash scripting:a way to write linux commands into a script
+ascii:all characters have a numerical value (integer) on ascii table
+bash:bourne again shell
+zsh:a different type of linux shell
+c++:a programming language based on C
+java:a object orientated programming language
+python:an intrepreted programming lanugage, easier to learn than c++, maybe?
+g++:command used to complile code on linux command line
+graphs:similar to trees, but a vertex can point anywhere on a graph, or multiple spots
+bst:binary search tree
+red/black:similar to a 2-3 tree, but with color flags
+hash table:a data structure used to have very fast retrivial/searches for keywords
+array:a very simple data structure(can be dynamically allocated)
+strcmp:a builtin c++ function that allows you to compare to c strings
+fstream:used in c++ programs for file i/o
+putty:allows you to login to remote server securely
+ssh:secure shell login
+dynamic memory:goes on the heap. not the stack
+memory leak:what you get if you don't deallocate dynamic memory when exiting a program
+root:top node in a bst
+constructor:a function that allows you to initalize values in a c++ program
+
